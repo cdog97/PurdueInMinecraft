@@ -1,4 +1,6 @@
-PurdueInMinecraft
+PurdueInMinecraft (Bedrock Edition)
+
+*This file is a port of the PurdueInMinecraft world from Minecraft: Java Edition by estebanrichey to the Minecraft Bedrock platform (Minecraft for Windows 10, Minecraft Pocket Edition, Minecraft for Xbox One, Minecraft for Playstation, and Minecraft for Nintendo Switch. All building credit goes to estebanrichey. Last world conversion: July 21, 2021.*
 
 This is Purdue University, built in Minecraft! This project started in March 2019, my second semester here at Purdue. I built the inside and outside of my campus ministry, Launch Campus Ministry, to scale in Minecraft (located at 507 Waldron Street)
 Then I built the parking lots surround the building, and then the apartment complex across the street. Then the fraternities and sororities surrounding us. Then I made Ford dining court, and so on and so forth.
